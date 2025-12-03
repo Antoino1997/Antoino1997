@@ -2,7 +2,7 @@
 Soy un estudiante de 2º de ASIR al que el gusta la programación y sobre todo la creación de videojuegos y problemas difíciles los cuales resolver.
 
 
-## 🔗 Socials:
+# 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-pérez-galán) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antoniolepe14@gmail.com) 
 
 # 🛠️ Tech Stack:
