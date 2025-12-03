@@ -14,6 +14,3 @@ Soy un estudiante de 2º de ASIR al que el gusta la programación y sobre todo l
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Antoino1997&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 🧠 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoino1997&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
