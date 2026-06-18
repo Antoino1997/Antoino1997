@@ -1,5 +1,5 @@
 # ✨ About Me:
-Soy un estudiante de 2º de ASIR al que el gusta la programación y sobre todo la creación de videojuegos y problemas difíciles los cuales resolver.
+Soy un estudiante de 2º de ASIR recién graduado al que el gusta la programación y sobre todo la creación de videojuegos y problemas difíciles los cuales resolver.
 
 
 # 🔗 Socials:
